@@ -1,0 +1,1 @@
+With the help of this project, I was able to explore the concepts of producers, consumers and streams in Kafka. Written in Java, the workflow is to poll data from Twitter and dumping the data into AWS ElasticSearch.
